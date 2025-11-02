@@ -3,7 +3,7 @@
 
 
 - ⚡ GitHub Usage: ...<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangexr&theme=dracula&hide=stars,prs&show_icons=true&commits_year=2025&rank_icon=percentile)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=orangexr&theme=dracula&hide=stars,prs&show_icons=true&commits_year=2025&rank_icon=github)
 
 <!--
 **OrangeXR/OrangeXR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
