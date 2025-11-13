@@ -3,18 +3,6 @@
 
 ## 🐍 My GitHub Contribution Snake
 
-### Light Mode
-![GitHub Snake Light](https://github.com/OrangeXR/OrangeXR/blob/output/github-contribution-grid-snake.svg)
-
-### Dark Mode
-![GitHub Snake Dark](https://github.com/OrangeXR/OrangeXR/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
-### Animated GIF
-![GitHub Snake GIF](https://github.com/OrangeXR/OrangeXR/blob/output/github-contribution-grid-snake.gif)
-
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orangeXR/orangeXR/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrangeXR/OrangeXR/output/github-contribution-grid-snake.svg">
