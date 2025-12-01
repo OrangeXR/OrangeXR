@@ -10,7 +10,7 @@
 
 
 <br />
-<a href="https://github.com/OrangeXR/CSCI-4316-SoftwareEngineeringI/tree/main/SemesterProject" target="blank">
+<a href="https://github.com/OrangeXR/CSCI-4316-SoftwareEngineeringI/tree/main/SemesterProject" target="_blank">
 <img width="100" height="100" alt="A graphic-heavy logo" src="https://github.com/user-attachments/assets/faf5bb25-c0fc-48c9-8243-d6cb2d46d6e6" />
 <a />
 
