@@ -27,7 +27,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
           #palette: "#ff7f00,#ff9900,#ffb347,#ffd580,#fff0b3"
-          palette: "#ff4b00,#ff9900,#ffb347,#ffd580,#fff0b3"
+          palette: "#ff4b00,#ff4b00,#ff4b00,#ff4b00,#ff4b00"
 
 
       - name: Deploy to GitHub Pages
