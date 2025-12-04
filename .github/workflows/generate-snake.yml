@@ -25,9 +25,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif
-          #palette: "#ff7f00,#ff9900,#ffb347,#ffd580,#fff0b3"
-          palette: "#ff4b00,#ff4b00,#ff4b00,#ff4b00,#ff4b00"
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+
+          palette: "#ff7f00,#ff9900,#ffb347,#ffd580,#fff0b3"
 
 
       - name: Deploy to GitHub Pages
